@@ -21,6 +21,9 @@ const Footer=()=> {
             <a href={socData.instagram} target="_blank" className="btn-instagram">
               <i className="fab fa-instagram"/>
             </a>
+            <a href={socData.twitter} target="_blank" className="btn-twitter">
+              <i className="fab fa-twitter"/>
+            </a>
             </div>
            <div className="col-md-8 col-12 cred">
             {t('cr')} Salmanov Elvin
