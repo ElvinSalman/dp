@@ -1,0 +1,20 @@
+{
+  "az":[
+    { "title": "Ana səhifə", "to": "/", "type": "simple" },
+    { "title": "ТВ3-117 məlumat", "to": "/info", "type": "simple" },
+    { "title": "BDU haqqında", "to": "/haqqimizda", "type": "simple" },
+    { "title": "Əlaqə", "to": "/elaqe", "type": "simple" }
+  ],
+  "en":[
+    { "title": "Home", "to": "/", "type": "simple" },
+    { "title": "Information about ТВ3-117", "to": "/info", "type": "simple" },
+    { "title": " About BSU", "to": "/about", "type": "simple" },
+    { "title": "Contact", "to": "/contact", "type": "simple" }
+  ],
+  "ru":[
+    { "title": "Главная", "to": "/", "type": "simple" },
+    { "title": "Информация о ТВ3-117", "to": "/info", "type": "simple" },
+    { "title": "О БГУ", "to": "/o-nas", "type": "simple" },
+    { "title": "Контакты", "to": "/kontakti", "type": "simple" }
+  ]
+}

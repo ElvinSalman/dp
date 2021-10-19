@@ -1,0 +1,32 @@
+{  
+  "az":[
+    { "title": "Kompressor", "to": "/info/esashisselerinqurgusu/kompressor", "type": "simple" },
+    { "title": "Yanma kamerası", "to": "/info/esashisselerinqurgusu/yanmakamerasi", "type": "simple" },
+    { "title": "Turbokompressor", "to": "/info/esashisselerinqurgusu/kompressorunturbini", "type": "simple" },
+    { "title": "Sərbəst turbin", "to": "/info/esashisselerinqurgusu/serbestturbin", "type": "simple" },
+    { "title": "Xaric olma qurğusu", "to": "/info/esashisselerinqurgusu/xaricolmaqurgusu", "type": "simple" },
+    { "title": "Sərbəst turbinin firlanma tezliyi tənzimləyicisinin intiqalı", "to": "/info/esashisselerinqurgusu/firlanmatezliyi", "type": "simple" },
+    { "title": "İntiqal qutusu", "to": "/info/esashisselerinqurgusu/intiqalqutusu", "type": "simple" },
+    { "title": "Hava starteri СВ-78БА", "to": "/info/esashisselerinqurgusu/havastarteri", "type": "simple" }
+  ],
+  "en":[
+    { "title": "Compressor", "to": "/info/assembly/compressor", "type": "simple" },
+    { "title": "Combustion chamber", "to": "/info/assembly/fire", "type": "simple" },
+    { "title": "Compressor turbine", "to": "/info/assembly/comprturb", "type": "simple" },
+    { "title": "Free turbine", "to": "/info/assembly/freeturb", "type": "simple" },
+    { "title": "Discharge device", "to": "/info/assembly/freed", "type": "simple" },
+    { "title": "Transmission of free turbine speed regulator", "to": "/info/assembly/revenge", "type": "simple" },
+    { "title": "Transmission box", "to": "/info/assembly/box", "type": "simple" },
+    { "title": "Air starter СВ-78БА", "to": "/info/assembly/airstarter", "type": "simple" }
+  ],
+  "ru":[
+    { "title": "Компрессор", "to": "/info/ustanovkaosnovnixcastey/kompressor", "type": "simple" },
+    { "title": "Камера сгорания", "to": "/info/ustanovkaosnovnixcastey/kamerasqoraniya", "type": "simple" },
+    { "title": "Турбокомпрессор", "to": "/info/ustanovkaosnovnixcastey/kompturbina", "type": "simple" },
+    { "title": "Свободная турбина", "to": "/info/ustanovkaosnovnixcastey/svobodnayaturbina", "type": "simple" },
+    { "title": "Разрядное устройство", "to": "/info/ustanovkaosnovnixcastey/razradnoyeustroystvo", "type": "simple" },
+    { "title": "Коробка передач регулятора оборотов свободной турбины", "to": "/info/ustanovkaosnovnixcastey/korobkaperedacoborotov", "type": "simple" },
+    { "title": "Коробка передач", "to": "/info/ustanovkaosnovnixcastey/korobkaperedac", "type": "simple" },
+    { "title": "Пневмостартер СВ-78БА", "to": "/info/ustanovkaosnovnixcastey/pnevmostarter", "type": "simple" }
+  ]
+}

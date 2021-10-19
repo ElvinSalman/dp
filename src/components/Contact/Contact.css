@@ -1,0 +1,13 @@
+.map{
+    padding: 0 !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+@media screen and (max-width:580px){
+    .map{
+        height: 380px !important;
+    }
+    .contact-map{
+        height: 100% !important;
+    }
+}

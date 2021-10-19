@@ -1,0 +1,19 @@
+{"az":[
+    { "title": "Mühərrik haqqinda ümumi məlumatlar", "to": "/info/xarakteristika/muherrikhaqqindamelumat", "type": "simple" },
+    { "title": "Mühərrikin texniki məlumatları", "to": "/info/xarakteristika/texnikimelumat", "type": "simple" },
+    { "title": "İstismar məhdudiyyətləri", "to": "/info/xarakteristika/istismarmehdudiyetler", "type": "simple" },
+    { "title": "Mühərrikin xarakteristikası", "to": "/info/xarakteristika/muherrikxarakteristikasi", "type": "simple" }
+  ],
+  "en":[
+    { "title": "General information about the engine", "to": "/info/characteristic/generalinfoaboutengine", "type": "simple" },
+    { "title": "Engine technical information", "to": "/info/characteristic/techinfo", "type": "simple" },
+    { "title": "Operational restrictions", "to": "/info/characteristic/operationlimit", "type": "simple" },
+    { "title": "Engine characteristics", "to": "/info/characteristic/enginecharacteristic", "type": "simple" }
+  ],
+  "ru":[
+    { "title": "Общие сведения о двигателе", "to": "/info/xarateristika/obshiesvedeniyaodviqatele", "type": "simple" },
+    { "title": "Техническая информация двигателя", "to": "/info/xarateristika/texniceskayainfo", "type": "simple" },
+    { "title": "Операционные ограничения", "to": "/info/xarateristika/operacoqraniceniye", "type": "simple" },
+    { "title": "Характеристики двигателя", "to": "/info/xarateristika/xarakteristikidviqatela", "type": "simple" }
+  ]
+}

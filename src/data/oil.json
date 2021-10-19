@@ -1,0 +1,23 @@
+{
+  "az":[
+    { "title": "Ümumi xarakteristikası", "to": "/info/yaglama/umumixarakteristika", "type": "simple" },
+    { "title": "Sistemin əsas elementləri", "to": "/info/yaglama/sisteminesaselementleri", "type": "simple" },
+    { "title": "Sistemin işi", "to": "/info/yaglama/sisteminishi", "type": "simple" },
+    { "title": "Sistemin işinə nəzarət", "to": "/info/yaglama/sisteminishinenezaret", "type": "simple" },
+    { "title": "Sistemin mümkün nasazlıqları", "to": "/info/yaglama/sisteminmumkunnasazliqlari", "type": "simple" }
+  ],
+  "en":[
+    { "title": "General characteristics", "to": "/info/oil/basicoil", "type": "simple" },
+    { "title": "The main elements of the system", "to": "/info/oil/basicelements", "type": "simple" },
+    { "title": "The work of the system", "to": "/info/oil/worksystem", "type": "simple" },
+    { "title": "Monitor system operation", "to": "/info/oil/controloveroperation", "type": "simple" },
+    { "title": "Possible system failures", "to": "/info/oil/malfunctionsofthesystem", "type": "simple" }
+  ],
+  "ru":[
+    { "title": "Общие характеристики", "to": "/info/maslo/obshiyexarakteristiki", "type": "simple" },
+    { "title": "Основные элементы системы", "to": "/info/maslo/osnovniyeelemsistemi", "type": "simple" },
+    { "title": "Работа системы", "to": "/info/maslo/rabotasistemi", "type": "simple" },
+    { "title": "Контроль работы системы", "to": "/info/maslo/kontrolrabotisistemi", "type": "simple" },
+    { "title": "Возможные системные сбои", "to": "/info/maslo/vozmojniyesistemniyesboi", "type": "simple" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "az":[
+    { "title": "Təyinat", "to": "/info/vibrasiya/teyinat", "type": "simple" },
+    { "title": "Tərkibi və işi", "to": "/info/vibrasiya/terkibiveishi", "type": "simple" },
+    { "title": "Sazlıq nəzarəti", "to": "/info/vibrasiya/sazliqnezareti", "type": "simple" }
+  ],
+  "en":[
+    { "title": "Appointment", "to": "/info/vibration/purpose", "type": "simple" },
+    { "title": "Composition and work", "to": "/info/vibration/contentandwork", "type": "simple" },
+    { "title": "Swamp control", "to": "/info/vibration/serviceability", "type": "simple" }
+  ],
+  "ru":[
+    { "title": "Назначение", "to": "/info/vibraciya/naznaceniye", "type": "simple" },
+    { "title": "Состав и работа", "to": "/info/vibraciya/sostavirabota", "type": "simple" },
+    { "title": "Контроль соответствия", "to": "/info/vibraciya/kontrolsootvetstviya", "type": "simple" }
+  ]
+}

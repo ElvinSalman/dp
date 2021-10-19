@@ -1,0 +1,28 @@
+{"az":[
+    { "title": "ТВ3-117ВМ müherrikin ümumi xarakteristikası", "to": "/info/xarakteristika"},
+    { "title": "ТВ3-117ВМ müherrikin əsas hissələrin qurğusu", "to": "/info/esashisselerinqurgusu"},
+    { "title": "ИВ-500 mühərrikin titrəmə nəzarəti sistemi", "to": "/info/vibrasiya"},
+    { "title": "Tozqoruyucu qurğu(TQQ)", "to": "/info/pzu"},
+    { "title": "Mühərrikin buzlanma ələyhinə sistemi və TQQ", "to": "/info/buzlamaeleyhi"},
+    { "title": "ТВ3-117ВМ müherrikin yağ sistemi", "to": "/info/yaglama"},
+    { "title": "ТВ3-117ВМ müherrikin yanacağla qidalanma və tənzimlənmə sistemi", "to": "/info/yanacaglaqidalanmavetenzimlenme"}
+  ],
+  "en":[
+    { "title": "General characteristics of TV3-117VM engine", "to": "/info/characteristic"},
+    { "title": "Installation of main parts of TV3-117ВМ engine", "to": "/info/assembly"},
+    { "title": "IV-500 engine vibration control system", "to": "/info/vibration"},
+    { "title": "Dust protection device (DPS)", "to": "/info/pzu"},
+    { "title": "Engine anti-icing system and DPS", "to": "/info/antiIcing" },
+    { "title": "TV3-117ВМ engine oil system", "to": "/info/oil"},
+    { "title": "TV3-117ВМ engine fuel supply and control system", "to": "/info/fuelfeedingandadjustment"}
+  ],
+  "ru":[
+    { "title": "Общие характеристики двигателя ТВ3-117ВМ", "to": "/info/xarateristiki"},
+    { "title": "Установка основных частей двигателя ТВ3-117ВМ", "to": "/info/ustanovkaosnovnixcastey"},
+    { "title": "Система контроля вибрации двигателя ИВ-500", "to": "/info/vibraciya"},
+    { "title": "Устройство защиты от пыли (ПЗУ)", "to": "/info/pzu" },
+    { "title": "Система антиобледенения двигателя и ПЗУ", "to": "/info/antiobledeneniye"},
+    { "title": "Масляная система двигателя ТВ3-117ВМ", "to": "/info/maslo"},
+    { "title": "Система подачи топлива и управления двигателем ТВ3-117ВМ", "to": "/info/podacatoplivaiupravleniye"}    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "az":[
+    { "title": "Sistemin ümumi xarakteristikası", "to": "/info/yanacaglaqidalanmavetenzimlenme/sisteminumumixarak", "type": "simple" },
+    { "title": "Yanacağın forsunkalara yolu", "to": "/info/yanacaglaqidalanmavetenzimlenme/yanacaginforsunkalarayolu", "type": "simple" },
+    { "title": "Əsas dozalaşdırıcı iynə", "to": "/info/yanacaglaqidalanmavetenzimlenme/esasdozalashdiriciiyne", "type": "simple" },
+    { "title": "Turbokompressorun firlanma tezliyi tənzimləyicisi", "to": "/info/yanacaglaqidalanmavetenzimlenme/turbokompressorunfirlanmasi", "type": "simple" },
+    { "title": "Sərbəst turbinin firlanma tezliyi tənzimləyicisi", "to": "/info/yanacaglaqidalanmavetenzimlenme/serbestturbininfirlanmasi", "type": "simple" },
+    { "title": "Tənzimləyicilərin birgə işi", "to": "/info/yanacaglaqidalanmavetenzimlenme/tezminleyiciler", "type": "simple" },
+    { "title": "Güc sinxronizatoru", "to": "/info/yanacaglaqidalanmavetenzimlenme/gucsinxronizatoru", "type": "simple" }
+  ],
+  "en":[
+    { "title": "General characteristics of the system", "to": "/info/fuelfeedingandadjustment/basicadj", "type": "simple" },
+    { "title": "The path of fuel to the injectors", "to": "/info/fuelfeedingandadjustment/fuelbillets", "type": "simple" },
+    { "title": "The main dosing needle", "to": "/info/fuelfeedingandadjustment/basicdosing", "type": "simple" },
+    { "title": "Turbocompressor speed regulator", "to": "/info/fuelfeedingandadjustment/turbocompadj", "type": "simple" },
+    { "title": "Free turbine speed regulator", "to": "/info/fuelfeedingandadjustment/freeturbospinadj", "type": "simple" },
+    { "title": "Joint work of regulators", "to": "/info/fuelfeedingandadjustment/regulators", "type": "simple" },
+    { "title": "Power synchronizer", "to": "/info/fuelfeedingandadjustment/synchronizer", "type": "simple" }
+  ],
+  "ru":[
+    { "title": "Общие характеристики системы", "to": "/info/podacatoplivaiupravleniye/obshiyexarakteristikisistemi", "type": "simple" },
+    { "title": "Путь топлива к форсункам", "to": "/info/podacatoplivaiupravleniye/puttoplivakforsunkam", "type": "simple" },
+    { "title": "Основная дозирующая игла", "to": "/info/podacatoplivaiupravleniye/osnovnayadoziruyushayaiqla", "type": "simple" },
+    { "title": "Регулятор скорости турбокомпрессора", "to": "/info/podacatoplivaiupravleniye/requlatorskorostiturbokomp", "type": "simple" },
+    { "title": "Регулятор скорости свободной турбины", "to": "/info/podacatoplivaiupravleniye/requlatorskorostisvobodnoyturb", "type": "simple" },
+    { "title": "Совместная работа регуляторов", "to": "/info/podacatoplivaiupravleniye/requlatori", "type": "simple" },
+    { "title": "Синхронизатор мощности", "to": "/info/podacatoplivaiupravleniye/sinxronizator", "type": "simple" }
+  ]
+}

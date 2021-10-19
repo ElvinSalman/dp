@@ -1,0 +1,22 @@
+.err-div{
+    width: 100%;
+    height: 90vh;
+}
+.err-img{
+    width: 100%;
+    height: 100%;
+    z-index:1;
+}
+.err-div h1{
+    position: absolute;
+    color: rgba(10, 10, 245, 0.493);
+    z-index: 2;
+    top: 18%;
+    left: 5%;
+}
+.err-div h3{
+    position: absolute;
+    z-index: 2;
+    bottom: 5%;
+    left: 5%;
+}

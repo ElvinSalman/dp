@@ -1,0 +1,36 @@
+
+.navbar .cred{
+text-align: right;
+
+}
+
+.loc{
+
+}
+
+.navbar .soc a{
+    margin-left: 10px ;
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%; 
+    transition: all .4s;
+
+    background-color: transparent;
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+   
+}
+.footMain{
+    margin-bottom:0 !important ;
+  }
+
+  @media screen and (max-width:992px){
+      .soc{
+          text-align: center;
+          margin-bottom: 15px;
+      }
+      .navbar .cred{
+          text-align: center;
+      }
+  }
