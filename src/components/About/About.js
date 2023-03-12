@@ -26,7 +26,7 @@ const About=()=> {
 <br/> <br/>  {t('content2')}</p>
     </div>
     <div className="col-12 col-md-6">
-    <img src="https://static.report.az/photo/372d3cf2-2ea8-3be5-b6d9-fe0ea68a22dd.jpg" alt="photo-1" width="100%" />
+    <img src="https://turkmenportal.com/images/uploads/blogs/e53349b55ea24889360ac4c2848da52a.jpg" alt="photo-1" width="100%" />
     </div>
 </div>
 <div className="row">
