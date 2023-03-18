@@ -21,7 +21,7 @@ import { useTranslation } from 'react-i18next';
                 <div className="col-12">
                 <p>{t('content')}</p>
                 <div className="col-12 d-flex justify-content-center">
-                <img src="https://ok-t.ru/studopedia/baza14/71157123704.files/image435.gif" alt="photo-1" />
+                <img id="lastImgInHomePage" src="https://ok-t.ru/studopedia/baza14/71157123704.files/image435.gif" alt="photo-1" />
                 </div>
                 </div>
             </div>

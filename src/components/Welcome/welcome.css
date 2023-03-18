@@ -4,6 +4,9 @@
     display: flex;
 
 }
+#lastImgInHomePage{
+    width: 100%;
+}
 .select-box{
     margin-top: 1rem;
     width: 60px;
