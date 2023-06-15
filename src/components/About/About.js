@@ -25,8 +25,8 @@ const About=()=> {
     {t('content1')}
 <br/> <br/>  {t('content2')}</p>
     </div>
-    <div className="col-12 col-md-6">
-    <img src="https://turkmenportal.com/images/uploads/blogs/e53349b55ea24889360ac4c2848da52a.jpg" alt="photo-1" width="100%" />
+    <div className="col-12 col-md-6 aboutImg">
+    <img className="logoForAbout" src="https://philosophy.rusoil.net/files/2021-04/BDU.jpeg" alt="photo-1" width="100%" />
     </div>
 </div>
 <div className="row">
